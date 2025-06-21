@@ -1,0 +1,13 @@
+.foot a{
+  text-decoration:none;
+  color: #999;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.lastlinks a{
+    text-decoration:none;
+  color: #777;
+  display: inline-block;
+  margin-left: 50px;
+}

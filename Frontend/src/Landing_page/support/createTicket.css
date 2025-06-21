@@ -1,0 +1,12 @@
+.suhero a{
+  text-decoration:none;
+  color: rgb(26, 153, 250);
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.suhero{
+    height: 272px;
+    width: 252px;
+}
